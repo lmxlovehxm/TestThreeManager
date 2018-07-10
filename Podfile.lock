@@ -1,0 +1,38 @@
+PODS:
+  - DOPDropDownMenu-Enhanced (1.0.0)
+  - IQKeyboardManager (6.0.2)
+  - MJRefresh (3.1.15.3)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SVProgressHUD (2.1.2)
+  - ZLPhotoBrowser (2.6.7):
+    - SDWebImage
+
+DEPENDENCIES:
+  - DOPDropDownMenu-Enhanced (~> 1.0.0)
+  - IQKeyboardManager (~> 6.0.2)
+  - MJRefresh (~> 3.1.15.3)
+  - SVProgressHUD (~> 2.1.2)
+  - ZLPhotoBrowser
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - DOPDropDownMenu-Enhanced
+    - IQKeyboardManager
+    - MJRefresh
+    - SDWebImage
+    - SVProgressHUD
+    - ZLPhotoBrowser
+
+SPEC CHECKSUMS:
+  DOPDropDownMenu-Enhanced: 9ec473b16351b5b0b2d6ef87e7f666fe5ff54ad5
+  IQKeyboardManager: c49d59e358aeeffaa0280aa305093c2b194d2607
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  ZLPhotoBrowser: 269024f75e741b077b04cb6bed419f2429e6e3f0
+
+PODFILE CHECKSUM: f82c7d75ffeed05ea0b9d08749979862d74eaa12
+
+COCOAPODS: 1.5.0
